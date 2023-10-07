@@ -4,22 +4,22 @@ RoCALink Database System: A comprehensive database system designed for RoCALink,
 
 **ERD**
 
-![Entity Relationship Diagram RoCALink](https://github.com/rad013/database-project-1/assets/115696959/73a15cc9-c68f-446c-a118-859c1487f5e5)
+![Entity Relationship Diagram RoCALink](https://i.imgur.com/kxR4CeI.png)
 
 **Create Database and Tables**
 
-![image](https://github.com/rad013/database-project-1/assets/115696959/706d9067-67fa-490b-ae50-dd4146a87492)
+![image](https://i.imgur.com/2UerUl5.png)
 
 **Insert Data to Database**
 
-![image](https://github.com/rad013/database-project-1/assets/115696959/ee6870db-9343-43ad-8b07-8687dc37b597)
+![image](https://i.imgur.com/nu0Cazb.png)
 
-![image](https://github.com/rad013/database-project-1/assets/115696959/41a04d5f-c54f-41af-b98e-09a59265b17e)
+![image](https://i.imgur.com/MgK99bS.png)
 
 **Simulate Transaction**
 
-![image](https://github.com/rad013/database-project-1/assets/115696959/b8ab8819-7449-42fc-88b5-1c46eca33a87)
+![image](https://i.imgur.com/amrH6fU.png)
 
 **Examples**
 
-![image](https://github.com/rad013/database-project-1/assets/115696959/0f557964-04a4-46c2-a926-88fbfc733803)
+![image](https://i.imgur.com/5UIPYwM.png)
