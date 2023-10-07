@@ -4,7 +4,7 @@ RoCALink Database System: A comprehensive database system designed for RoCALink,
 
 **ERD**
 
-![Entity Relationship Diagram RoCALink](https://i.imgur.com/kxR4CeI.png)
+![Entity Relationship Diagram RoCALink](https://i.imgur.com/3h3NK7q.png)
 
 **Create Database and Tables**
 
